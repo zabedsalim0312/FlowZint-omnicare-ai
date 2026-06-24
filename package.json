@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@openrouter/agent": "^0.7.2",
+    "express": "^5.2.1",
+    "zod": "^4.4.3"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "description": "An AI-powered, full-stack customer care bot built for **Flowzint** — delivering real-time intelligent support with streaming responses, ticket management, and analytics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
